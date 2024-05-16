@@ -99,6 +99,9 @@ detect_handwriting(image_path)
 ```
 ### Output:
 
+![Screenshot 2024-05-17 001450](https://github.com/KameshLeVI/project/assets/120780633/d320e880-7304-4c98-a4b7-8b85b0da1f2a)
+
+
 ### III)Perform object detection with label in an image
 ```py
 config_file='ssd_mobilenet_v3_large_coco_2020_01_14.pbtxt'
